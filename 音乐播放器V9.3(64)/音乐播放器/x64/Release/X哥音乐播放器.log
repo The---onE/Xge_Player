@@ -1,0 +1,28 @@
+﻿生成启动时间为 2012/8/21 16:13:03。
+     1>项目“C:\Users\samsung\Desktop\我的程序\音乐播放器\X哥音乐播放器.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“x64\Release\音乐播放器.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         D:\技术\编程\VS2012\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /O2 /D WIN32 /D NDEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /GF /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp".\Release\X哥音乐播放器.pch" /Fo".\Release\\" /Fd".\Release\vc110.pdb" /Gd /TP /errorReport:prompt MainDlg.cpp
+         MainDlg.cpp
+       ResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\技术\编程\VS2012\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\samsung\Desktop\我的程序\音乐播放器\x64\Release\X哥音乐播放器.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib comctl32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\技术\编程\VS2012\VC\Include\Manifest\dpiaware.manifest" /PDB:"C:\Users\samsung\Desktop\我的程序\音乐播放器\x64\Release\X哥音乐播放器.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\samsung\Desktop\我的程序\音乐播放器\x64\Release\X哥音乐播放器.lib" /MACHINE:X64 x64\Release\resource.res
+         .\Release\Lrc.obj
+         .\Release\MainDlg.obj
+         .\Release\Mini.obj
+         .\Release\MiniLrc.obj
+         .\Release\Search.obj
+         .\Release\Set.obj
+         .\Release\StdAfx.obj
+         X哥音乐播放器.vcxproj -> C:\Users\samsung\Desktop\我的程序\音乐播放器\x64\Release\X哥音乐播放器.exe
+       FinalizeBuildStatus:
+         正在删除文件“x64\Release\音乐播放器.unsuccessfulbuild”。
+         正在对“x64\Release\音乐播放器.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\samsung\Desktop\我的程序\音乐播放器\X哥音乐播放器.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.03

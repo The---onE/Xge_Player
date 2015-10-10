@@ -1,0 +1,416 @@
+ X∏Á“Ù¿÷≤•∑≈∆˜
+
+ Timestamp is 503343b5 (Tue Aug 21 16:15:49 2012)
+
+ Preferred load address is 00400000
+
+ Start         Length     Name                   Class
+ 0001:00000000 00006820H .text                   CODE
+ 0002:00000000 00000014H .rdata                  DATA
+ 0002:00000014 00000000H .edata                  DATA
+ 0003:00000000 00000004H .CRT$XCA                DATA
+ 0003:00000004 00000004H .CRT$XCZ                DATA
+ 0003:00000008 00000004H .CRT$XIA                DATA
+ 0003:0000000c 00000004H .CRT$XIZ                DATA
+ 0003:00000010 00000854H .data                   DATA
+ 0003:00000868 000150b0H .bss                    DATA
+ 0004:00000000 000000b4H .idata$2                DATA
+ 0004:000000b4 00000014H .idata$3                DATA
+ 0004:000000c8 00000184H .idata$4                DATA
+ 0004:0000024c 00000184H .idata$5                DATA
+ 0004:000003d0 00000586H .idata$6                DATA
+ 0005:00000000 00000358H .rsrc$01                DATA
+ 0005:00000360 000198e0H .rsrc$02                DATA
+
+  Address         Publics by Value              Rva+Base     Lib:Object
+
+ 0001:00000000       ?manageTag@@YAHPAUHWND__@@PADHH@Z 00401000 f   Lrc.obj
+ 0001:00000260       ?sort@@YAXXZ               00401260 f   Lrc.obj
+ 0001:000002f0       ?manageLrc@@YAHPAUHWND__@@PAD@Z 004012f0 f   Lrc.obj
+ 0001:000003b0       ?GetSetLrc@@YAXPAUHWND__@@0H@Z 004013b0 f   Lrc.obj
+ 0001:00000890       ?select@@YAXPAUHWND__@@H@Z 00401890 f   Lrc.obj
+ 0001:00000910       ?LRCTimer@@YGXPAUHWND__@@IIK@Z 00401910 f   Lrc.obj
+ 0001:000009a0       ?Lrc_Proc@@YGHPAUHWND__@@IIJ@Z 004019a0 f   Lrc.obj
+ 0001:00000c60       ?Lrc_OnInitDialog@@YAHPAUHWND__@@0J@Z 00401c60 f   Lrc.obj
+ 0001:00000d60       ?Lrc_OnCommand@@YAXPAUHWND__@@H0I@Z 00401d60 f   Lrc.obj
+ 0001:00000e30       ?Lrc_OnClose@@YAXPAUHWND__@@@Z 00401e30 f   Lrc.obj
+ 0001:00000e60       ?openf@@YAXPAUHWND__@@@Z   00401e60 f   MainDlg.obj
+ 0001:00001130       ?Del@@YAXPAUHWND__@@@Z     00402130 f   MainDlg.obj
+ 0001:000011f0       ?Up@@YAXPAUHWND__@@@Z      004021f0 f   MainDlg.obj
+ 0001:000012f0       ?Down@@YAXPAUHWND__@@@Z    004022f0 f   MainDlg.obj
+ 0001:000013d0       ?SList@@YAPAU_iobuf@@H@Z   004023d0 f   MainDlg.obj
+ 0001:00001410       ?OFile@@YAPAU_iobuf@@H@Z   00402410 f   MainDlg.obj
+ 0001:00001450       ?saveList@@YAXPAUHWND__@@@Z 00402450 f   MainDlg.obj
+ 0001:00001540       ?openList@@YAXPAUHWND__@@@Z 00402540 f   MainDlg.obj
+ 0001:00001730       ?ID3V2@@YAXPAUHWND__@@PAU_iobuf@@UID3v1@@@Z 00402730 f   MainDlg.obj
+ 0001:00001990       ?GetID3Size@@YAHPAU_iobuf@@@Z 00402990 f   MainDlg.obj
+ 0001:000019d0       ?fID3V1@@YAXPAUHWND__@@@Z  004029d0 f   MainDlg.obj
+ 0001:00001c00       ?ListTotal@@YAXPAUHWND__@@@Z 00402c00 f   MainDlg.obj
+ 0001:00001c60       ?ListNow@@YAXPAUHWND__@@@Z 00402c60 f   MainDlg.obj
+ 0001:00001cf0       ?GetWay@@YAPADPAD@Z        00402cf0 f   MainDlg.obj
+ 0001:00001cf0       ?mlGetWay@@YAPADPAD@Z      00402cf0 f   MainDlg.obj
+ 0001:00001cf0       ?_GetWay@@YAPADPAD@Z       00402cf0 f   MainDlg.obj
+ 0001:00001d20       ?SleepTime@@YAHXZ          00402d20 f   MainDlg.obj
+ 0001:00001df0       ?MSelf@@YAXPAUHWND__@@@Z   00402df0 f   MainDlg.obj
+ 0001:00001eb0       ?Rand@@YAXPAUHWND__@@@Z    00402eb0 f   MainDlg.obj
+ 0001:00001f20       ?beginTimeSet@@YAXQADPAUHWND__@@@Z 00402f20 f   MainDlg.obj
+ 0001:00002030       ?TimeTGet@@YAHQADPAUHWND__@@@Z 00403030 f   MainDlg.obj
+ 0001:000020d0       ?TimeNGet@@YAHQADPAUHWND__@@@Z 004030d0 f   MainDlg.obj
+ 0001:00002170       ?NTime@@YAXPAUHWND__@@H@Z  00403170 f   MainDlg.obj
+ 0001:000022c0       ?Change@@YGXPAUHWND__@@IIK@Z 004032c0 f   MainDlg.obj
+ 0001:00002560       ?STimeF@@YGXPAUHWND__@@IIK@Z 00403560 f   MainDlg.obj
+ 0001:000025c0       ?Play@@YAXPAUHWND__@@@Z    004035c0 f   MainDlg.obj
+ 0001:00002750       ?PlayorContinue@@YAXPAUHWND__@@@Z 00403750 f   MainDlg.obj
+ 0001:000028b0       ?Stop@@YAXPAUHWND__@@@Z    004038b0 f   MainDlg.obj
+ 0001:00002980       ?Pause@@YAXPAUHWND__@@@Z   00403980 f   MainDlg.obj
+ 0001:000029d0       ?Last@@YAXPAUHWND__@@@Z    004039d0 f   MainDlg.obj
+ 0001:00002a60       ?Next@@YAXPAUHWND__@@@Z    00403a60 f   MainDlg.obj
+ 0001:00002af0       ?Voice@@YAXPAUHWND__@@@Z   00403af0 f   MainDlg.obj
+ 0001:00002b90       ?Sof@@YAHPAUHWND__@@HH0@Z  00403b90 f   MainDlg.obj
+ 0001:00002c70       ?NVoice@@YAXPAUHWND__@@@Z  00403c70 f   MainDlg.obj
+ 0001:00002cc0       ?GSNTE@@YAPADPAUHWND__@@@Z 00403cc0 f   MainDlg.obj
+ 0001:00002d10       ?playfrom@@YAXPAUHWND__@@H@Z 00403d10 f   MainDlg.obj
+ 0001:00002e70       _WinMain@16                00403e70 f   MainDlg.obj
+ 0001:00002ed0       ?Main_Proc@@YGHPAUHWND__@@IIJ@Z 00403ed0 f   MainDlg.obj
+ 0001:00003970       ?Main_OnInitDialog@@YAHPAUHWND__@@0J@Z 00404970 f   MainDlg.obj
+ 0001:00003f40       ?Main_OnCommand@@YAXPAUHWND__@@H0I@Z 00404f40 f   MainDlg.obj
+ 0001:00004730       ?Main_OnHScroll@@YAXPAUHWND__@@0IH@Z 00405730 f   MainDlg.obj
+ 0001:00004790       ?Main_OnClose@@YAXPAUHWND__@@@Z 00405790 f   MainDlg.obj
+ 0001:00004860       ?Mini_Proc@@YGHPAUHWND__@@IIJ@Z 00405860 f   Mini.obj
+ 0001:00004b10       ?Mini_OnInitDialog@@YAHPAUHWND__@@0J@Z 00405b10 f   Mini.obj
+ 0001:00004e00       ?Mini_OnCommand@@YAXPAUHWND__@@H0I@Z 00405e00 f   Mini.obj
+ 0001:00004f40       ?Mini_OnHScroll@@YAXPAUHWND__@@0IH@Z 00405f40 f   Mini.obj
+ 0001:00005000       ?MINITimer@@YGXPAUHWND__@@IIK@Z 00406000 f   Mini.obj
+ 0001:00005190       ?Mini_OnClose@@YAXPAUHWND__@@@Z 00406190 f   Mini.obj
+ 0001:000051c0       ?Initialization@@YAXXZ     004061c0 f   MiniLrc.obj
+ 0001:00005200       ?_manageTag@@YAHPAUHWND__@@PADHH@Z 00406200 f   MiniLrc.obj
+ 0001:00005460       ?_sort@@YAXXZ              00406460 f   MiniLrc.obj
+ 0001:000054f0       ?_manageLrc@@YAHPAUHWND__@@PAD@Z 004064f0 f   MiniLrc.obj
+ 0001:000055b0       ?_GetSetLrc@@YAXPAUHWND__@@0@Z 004065b0 f   MiniLrc.obj
+ 0001:000058a0       ?_select@@YAXPAUHWND__@@H@Z 004068a0 f   MiniLrc.obj
+ 0001:00005920       ?MLTimer@@YGXPAUHWND__@@IIK@Z 00406920 f   MiniLrc.obj
+ 0001:00005940       ?GetIntFromLable@@YAXPADPAH00@Z 00406940 f   MiniLrc.obj
+ 0001:000059a0       ?GetsetColor@@YAXPAH00@Z   004069a0 f   MiniLrc.obj
+ 0001:00005a60       ?MiniLrc_Proc@@YGHPAUHWND__@@IIJ@Z 00406a60 f   MiniLrc.obj
+ 0001:00005bf0       ?MiniLrc_OnInitDialog@@YAHPAUHWND__@@0J@Z 00406bf0 f   MiniLrc.obj
+ 0001:00005d00       ?MiniLrc_OnCommand@@YAXPAUHWND__@@H0I@Z 00406d00 f   MiniLrc.obj
+ 0001:00005d10       ?MiniLrc_OnClose@@YAXPAUHWND__@@@Z 00406d10 f   MiniLrc.obj
+ 0001:00005d70       ?Search_Proc@@YGHPAUHWND__@@IIJ@Z 00406d70 f   Search.obj
+ 0001:00005e20       ?Search_OnInitDialog@@YAHPAUHWND__@@0J@Z 00406e20 f   Search.obj
+ 0001:00005e50       ?Search_OnCommand@@YAXPAUHWND__@@H0I@Z 00406e50 f   Search.obj
+ 0001:000060a0       ?Search_OnClose@@YAXPAUHWND__@@@Z 004070a0 f   Search.obj
+ 0001:000060d0       ?openSetFile@@YAPAU_iobuf@@XZ 004070d0 f   Set.obj
+ 0001:000060d0       ?_openSetFile@@YAPAU_iobuf@@XZ 004070d0 f   Set.obj
+ 0001:000060d0       ?mlopenSetFile@@YAPAU_iobuf@@XZ 004070d0 f   Set.obj
+ 0001:00006110       ?_saveSetFile@@YAPAU_iobuf@@XZ 00407110 f   Set.obj
+ 0001:00006150       ?getLable@@YAXPADPAH@Z     00407150 f   Set.obj
+ 0001:00006210       ?getSourceSet@@YAXXZ       00407210 f   Set.obj
+ 0001:00006270       ?CreateSet@@YAXPAUHWND__@@@Z 00407270 f   Set.obj
+ 0001:00006340       ?setFile@@YAXXZ            00407340 f   Set.obj
+ 0001:00006370       ?Set_Proc@@YGHPAUHWND__@@IIJ@Z 00407370 f   Set.obj
+ 0001:00006400       ?Set_OnInitDialog@@YAHPAUHWND__@@0J@Z 00407400 f   Set.obj
+ 0001:00006530       ?Set_OnCommand@@YAXPAUHWND__@@H0I@Z 00407530 f   Set.obj
+ 0001:00006590       ?Set_OnClose@@YAXPAUHWND__@@@Z 00407590 f   Set.obj
+ 0001:00006640       _GetOpenFileNameA@4        00407640 f   comdlg32:comdlg32.dll
+ 0001:00006650       __alloca_probe             00407650 f   MSVCRT:chkstk.obj
+ 0001:00006650       __chkstk                   00407650 f   MSVCRT:chkstk.obj
+ 0001:00006680       __ftol                     00407680 f   MSVCRT:MSVCRT.dll
+ 0001:00006686       _WinMainCRTStartup         00407686 f   MSVCRT:crtexew.obj
+ 0001:000067e4       __XcptFilter               004077e4 f   MSVCRT:MSVCRT.dll
+ 0001:000067ea       __initterm                 004077ea f   MSVCRT:MSVCRT.dll
+ 0001:000067f0       __setdefaultprecision      004077f0 f   MSVCRT:fp8.obj
+ 0001:00006802       __matherr                  00407802 f   MSVCRT:merr.obj
+ 0001:00006805       __setargv                  00407805 f   MSVCRT:dllargv.obj
+ 0001:00006806       __except_handler3          00407806 f   MSVCRT:MSVCRT.dll
+ 0001:0000680c       __controlfp                0040780c f   MSVCRT:MSVCRT.dll
+ 0002:00000000       __real@8@3ffca000000000000000 00408000     MainDlg.obj
+ 0003:00000000       ___xc_a                    00409000     MSVCRT:cinitexe.obj
+ 0003:00000004       ___xc_z                    00409004     MSVCRT:cinitexe.obj
+ 0003:00000008       ___xi_a                    00409008     MSVCRT:cinitexe.obj
+ 0003:0000000c       ___xi_z                    0040900c     MSVCRT:cinitexe.obj
+ 0003:00000010       ?isFollow@@3HA             00409010     Lrc.obj
+ 0003:00000014       ??_C@_0BL@PIHJ@?$LI?h?$LE?J?$LJ?$PN?$LD?$KE?$KD?$KM?N?$NO?$LH?$KI?O?T?J?$LO?$LD?$KM?$LD?$KE?$LC?$LP?$LH?V?$AA@ 00409014     Lrc.obj
+ 0003:00000030       ??_C@_05BAJN@?$CFs?9?$CFs?$AA@ 00409030     Lrc.obj
+ 0003:00000038       ??_C@_0CF@KILD@?$LI?h?$LE?J?$LJ?$PN?$LD?$KE?$LL?r?D?Z?$LE?f?$LC?$LL?W?c?$KD?$KM?G?k?$LA?$LE?$KB?$LO?K?$KC?P?B?$KB?$LP@ 00409038     Lrc.obj
+ 0003:00000060       ??_C@_01LHO@r?$AA@         00409060     Lrc.obj
+ 0003:00000064       ??_C@_0L@IKIH@?$LI?h?$LE?J?$LC?$LL?$LE?f?T?Z?$AA@ 00409064     Lrc.obj
+ 0003:00000070       ??_C@_06OINM@?$CFs?4lrc?$AA@ 00409070     Lrc.obj
+ 0003:00000078       ??_C@_0BL@NKPN@SetLayeredWindowAttributes?$AA@ 00409078     Lrc.obj
+ 0003:00000094       ??_C@_0L@DKIF@User32?4DLL?$AA@ 00409094     Lrc.obj
+ 0003:000000a0       ??_C@_08GDOC@?M?$KD?V?$LJ?$LI?z?K?f?$AA@ 004090a0     Lrc.obj
+ 0003:000000ac       ??_C@_08LJHK@?$LM?L?P?x?$LI?z?K?f?$AA@ 004090ac     Lrc.obj
+ 0003:000000b8       ?onoff@@3HA                004090b8     MainDlg.obj
+ 0003:000000bc       ??_C@_05KEJO@?$CFs?2?$CFs?$AA@ 004090bc     MainDlg.obj
+ 0003:000000c4       ??_C@_0EP@LKNP@Music?$CI?$CK?4mp3?$DL?$CK?4wma?$CJ?$AA?$CK?4mp3?$DL?$CK?4wma?$AAM@ 004090c4     MainDlg.obj
+ 0003:00000114       ??_C@_02INOK@w?$CL?$AA@    00409114     MainDlg.obj
+ 0003:00000118       ??_C@_0CM@IAJD@?$CFsX?$LI?g?R?t?$MA?V?$LC?$KF?$LH?E?F?w?A?P?$LB?m?$CFd?$CI?I?$LO?$LD?$PN?$LK?s?A?P?$LB?m@ 00409118     MainDlg.obj
+ 0003:00000144       ??_C@_02MBOK@r?$CL?$AA@    00409144     MainDlg.obj
+ 0003:00000148       ??_C@_0P@MDGC@?$LB?$KD?$LE?f?A?P?$LB?m?$LD?I?$LJ?$KG?$KD?$KB?$AA@ 00409148     MainDlg.obj
+ 0003:00000158       ??_C@_04NKJO@?$LD?I?$LJ?$KG?$AA@ 00409158     MainDlg.obj
+ 0003:00000160       ??_C@_03NGIM@?$CFs?$HM?$AA@ 00409160     MainDlg.obj
+ 0003:00000164       ??_C@_08OHBJ@?$LB?$KD?$LE?f?A?P?$LB?m?$AA@ 00409164     MainDlg.obj
+ 0003:00000170       ??_C@_0BH@HDGL@?H?$LH?$LG?$KI?R?$KK?$LB?$KD?$LE?f?V?A?A?P?$LB?m?$CFd?B?p?$KD?$LP?$AA@ 00409170     MainDlg.obj
+ 0003:00000188       ??_C@_0L@IDKG@?A?P?$LB?m?$LC?$LL?$LE?f?T?Z?$AA@ 00409188     MainDlg.obj
+ 0003:00000194       ??_C@_08HGCA@?$LE?r?$LP?$KK?A?P?$LB?m?$AA@ 00409194     MainDlg.obj
+ 0003:000001a0       ??_C@_0BF@NKKC@?H?$LH?$LG?$KI?R?$KK?$LE?r?$LP?$KK?A?P?$LB?m?$CFd?B?p?$KD?$LP?$AA@ 004091a0     MainDlg.obj
+ 0003:000001b8       ??_C@_04PGOF@TALB?$AA@     004091b8     MainDlg.obj
+ 0003:000001c0       ??_C@_04IHIO@TPE1?$AA@     004091c0     MainDlg.obj
+ 0003:000001c8       ??_C@_04OHPN@TIT2?$AA@     004091c8     MainDlg.obj
+ 0003:000001d0       ??_C@_03LDCP@ID3?$AA@      004091d0     MainDlg.obj
+ 0003:000001d4       ??_C@_03KALA@TAG?$AA@      004091d4     MainDlg.obj
+ 0003:000001d8       ??_C@_09CGO@?$CF03d?1?$CF03d?$AA@ 004091d8     MainDlg.obj
+ 0003:000001e4       ??_C@_0BP@GBBE@?$CFs?E?d?V?C?N?D?$LM?$PO?$CI?G?k?N?p?I?$LO?$LD?$PN?$LL?r?$LI?$PM?$LI?D?$CJ?4dat?$AA@ 004091e4     MainDlg.obj
+ 0003:00000204       ??_C@_03FALJ@_st?$AA@      00409204     MainDlg.obj
+ 0003:00000208       ??_C@_0BA@MILO@00?300?1?$CF02d?3?$CF02d?$AA@ 00409208     MainDlg.obj
+ 0003:00000218       ??_C@_07MKJL@play?5?$CFs?$AA@ 00409218     MainDlg.obj
+ 0003:00000220       ??_C@_0BB@LPIK@status?5?$CFs?5length?$AA@ 00409220     MainDlg.obj
+ 0003:00000234       ??_C@_0BD@DPKM@status?5?$CFs?5position?$AA@ 00409234     MainDlg.obj
+ 0003:00000248       ??_C@_0BA@GBGH@play?5?$CFs?5from?5?$CFd?$AA@ 00409248     MainDlg.obj
+ 0003:00000258       ??_C@_07IABB@stop?5?$CFs?$AA@ 00409258     MainDlg.obj
+ 0003:00000260       ??_C@_0BE@OLAH@?$CF02d?3?$CF02d?1?$CF02d?3?$CF02d?$AA@ 00409260     MainDlg.obj
+ 0003:00000274       ??_C@_07HCOB@stopped?$AA@  00409274     MainDlg.obj
+ 0003:0000027c       ??_C@_0P@FJDO@status?5?$CFs?5mode?$AA@ 0040927c     MainDlg.obj
+ 0003:0000028c       ??_C@_09BILE@?$CF02d?3?$CF02d?$AA@ 0040928c     MainDlg.obj
+ 0003:00000298       ??_C@_0M@KBFP@00?300?100?300?$AA@ 00409298     MainDlg.obj
+ 0003:000002a4       ??_C@_08ELIP@pause?5?$CFs?$AA@ 004092a4     MainDlg.obj
+ 0003:000002b0       ??_C@_0BJ@OLCL@setaudio?5?$CFs?5volume?5to?5?$CFd?$AA@ 004092b0     MainDlg.obj
+ 0003:000002cc       ??_C@_0P@JFJA@setaudio?5?$CFs?5on?$AA@ 004092cc     MainDlg.obj
+ 0003:000002dc       ??_C@_0BA@LJJD@setaudio?5?$CFs?5off?$AA@ 004092dc     MainDlg.obj
+ 0003:000002ec       ??_C@_03HBEB@?560?$AA@     004092ec     MainDlg.obj
+ 0003:000002f0       ??_C@_05KLKP@?A?P?$LB?m4?$AA@ 004092f0     MainDlg.obj
+ 0003:000002f8       ??_C@_05POEK@?A?P?$LB?m3?$AA@ 004092f8     MainDlg.obj
+ 0003:00000300       ??_C@_05FENN@?A?P?$LB?m2?$AA@ 00409300     MainDlg.obj
+ 0003:00000308       ??_C@_05KLGE@?A?P?$LB?m1?$AA@ 00409308     MainDlg.obj
+ 0003:00000310       ??_C@_08EGA@?K?f?$LL?z?$LC?$KF?$LH?E?$AA@ 00409310     MainDlg.obj
+ 0003:0000031c       ??_C@_08IDA@?A?P?$LB?m?Q?$KN?$LL?$LH?$AA@ 0040931c     MainDlg.obj
+ 0003:00000328       ??_C@_08DHDB@?$LF?$KF?G?z?Q?$KN?$LL?$LH?$AA@ 00409328     MainDlg.obj
+ 0003:00000334       ??_C@_07IOKP@000?1000?$AA@ 00409334     MainDlg.obj
+ 0003:0000033c       ??_C@_0O@BBBM@X?$LI?g?R?t?$MA?V?$LC?$KF?$LH?E?F?w?$AA@ 0040933c     MainDlg.obj
+ 0003:0000034c       ??_C@_0M@OANN@ID_ICON?4ico?$AA@ 0040934c     MainDlg.obj
+ 0003:00000358       ??_C@_0BD@GIOM@?H?$LH?$LG?$KI?R?$KK?G?e?$LP?U?A?P?$LB?m?B?p?$KD?$LP?$AA@ 00409358     MainDlg.obj
+ 0003:0000036c       ??_C@_08GMAE@?G?e?$LP?U?A?P?$LB?m?$AA@ 0040936c     MainDlg.obj
+ 0003:00000378       ??_C@_0OJ@MDON@?5?5?5?5?5?5?$CK?$CK?$CK?5?5?5?5?5?5?5?5?5?5?5?5?5?$CK?$CK?$CK?6?5?5?$CK?$CK?5?5@ 00409378     MainDlg.obj
+ 0003:00000464       ??_C@_04FNDL@?$LI?P?P?$LL?$AA@ 00409464     MainDlg.obj
+ 0003:0000046c       ??_C@_0DJ@BNM@X?$LI?g?R?t?$MA?V?$LC?$KF?$LH?E?F?wV7?40?6?$LI?P?P?$LL?D?z?$LF?D?V?$KH?$LD?V?$CB?6@ 0040946c     MainDlg.obj
+ 0003:000004a8       ??_C@_04IOJE@?$LJ?X?S?Z?$AA@ 004094a8     MainDlg.obj
+ 0003:000004b0       ??_C@_0N@KDJC@?K?$KP?C?$NP?D?$KD?J?$LN?$CI?$CGJ?$CJ?$AA@ 004094b0     MainDlg.obj
+ 0003:000004c0       ??_C@_0BB@MJGD@?R?Q?M?K?$LD?v?K?$KP?C?$NP?D?$KD?J?$LN?$KD?$KB?$AA@ 004094c0     MainDlg.obj
+ 0003:000004d4       ??_C@_0M@IIAF@shutdown?5?9a?$AA@ 004094d4     MainDlg.obj
+ 0003:000004e0       ??_C@_0BH@ODGK@?H?$LH?$LG?$KI?R?$KK?M?K?$LD?v?K?$KP?C?$NP?D?$KD?J?$LN?B?p?$KD?$LP?$AA@ 004094e0     MainDlg.obj
+ 0003:000004f8       ??_C@_0N@BMJA@?M?K?$LD?v?K?$KP?C?$NP?D?$KD?J?$LN?$AA@ 004094f8     MainDlg.obj
+ 0003:00000508       ??_C@_0CJ@HBMM@?R?Q?$LN?x?H?k?K?$KP?C?$NP?D?$KD?J?$LN?$KD?$KM?$LM?F?K?c?$LL?z?$LN?$KL?T?Z?$CFd?$LH?V?V?S@ 00409508     MainDlg.obj
+ 0003:00000534       ??_C@_0BC@LCPC@shutdown?5?9s?5?9t?5?$CFd?$AA@ 00409534     MainDlg.obj
+ 0003:00000548       ??_C@_0BH@POCA@?H?$LH?$LG?$KI?R?$KK?$LN?x?H?k?K?$KP?C?$NP?D?$KD?J?$LN?B?p?$KD?$LP?$AA@ 00409548     MainDlg.obj
+ 0003:00000560       ??_C@_08IKLL@?K?$KP?C?$NP?D?$KD?J?$LN?$AA@ 00409560     MainDlg.obj
+ 0003:0000056c       ??_C@_0BB@BCOM@?P?h?R?$KK?$LB?$KD?$LE?f?A?P?$LB?m?B?p?$KD?$LP?$AA@ 0040956c     MainDlg.obj
+ 0003:00000580       ??_C@_04LEJI@?M?K?$LD?v?$AA@ 00409580     MainDlg.obj
+ 0003:00000588       ??_C@_0N@KPIP@?W?$MA?C?f?$LI?h?$LE?J?$CI?$CGP?$CJ?$AA@ 00409588     MainDlg.obj
+ 0003:00000598       ??_C@_0N@JAEB@?$LJ?X?$LB?U?W?$MA?C?f?$LI?h?$LE?J?$AA@ 00409598     MainDlg.obj
+ 0003:000005a8       ??_C@_0P@GEMO@?H?$LH?$LG?$KI?R?$KK?M?K?$LD?v?B?p?$KD?$LP?$AA@ 004095a8     MainDlg.obj
+ 0003:000005b8       ??_C@_0CB@DIHL@?$LI?h?$LE?J?$LJ?$PN?$LD?$KE?$LL?r?D?Z?$LE?f?$LC?$LL?W?c?$KD?$KM?N?$NO?$LH?$KI?$LL?q?H?$KB?$LI?h?$LE?J@ 004095b8     MiniLrc.obj
+ 0003:000005dc       ??_C@_04FCNP@?$LE?m?N?s?$AA@ 004095dc     MiniLrc.obj
+ 0003:000005e4       ??_C@_03GMBC@_cb?$AA@      004095e4     MiniLrc.obj
+ 0003:000005e8       ??_C@_03GMNJ@_cg?$AA@      004095e8     MiniLrc.obj
+ 0003:000005ec       ??_C@_03MFGC@_cr?$AA@      004095ec     MiniLrc.obj
+ 0003:000005f0       ??_C@_04KHOB@open?$AA@     004095f0     Search.obj
+ 0003:000005f8       ??_C@_0IM@CPJH@http?3?1?1mp3?4sogou?4com?1music?4so?$DPqu@ 004095f8     Search.obj
+ 0003:00000684       ??_C@_0DJ@HOBG@http?3?1?1cgi?4music?4soso?4com?1fcgi?9b@ 00409684     Search.obj
+ 0003:000006c0       ??_C@_0EL@GGCG@http?3?1?1mp3?4baidu?4com?1m?$DPword?$DN?$CFs?$CGl@ 004096c0     Search.obj
+ 0003:0000070c       ??_C@_0JP@LBFO@?5?5?5?5?5?5?5?5?5?5?5?5?5?5?5?5?5?5?5?5?5?5?5?5?5?5?5?5?$LI?P?P?$LL@ 0040970c     Search.obj
+ 0003:000007ac       ??_C@_0BO@OBPP@telnet?5towel?4blinkenlights?4nl?$AA@ 004097ac     Search.obj
+ 0003:000007cc       ??_C@_0N@INHO@148550528491?$AA@ 004097cc     Search.obj
+ 0003:000007dc       ??_C@_0DN@HIAB@?N?$LE?U?R?$LF?$LN?K?Q?K?w?O?n?$KD?$KM?G?k?$LM?l?$LC?i?J?G?$LH?q?N?$KK?H?$KL?B?$LH?$LO?$LG@ 004097dc     Search.obj
+ 0003:0000081c       ??_C@_08ECKC@?K?Q?K?w?J?$KH?$LA?$NM?$AA@ 0040981c     Search.obj
+ 0003:00000828       ??_C@_0BN@BNDD@_st?$HM?$CFd?$HM_cr?$HM?$CFd?$HM_cg?$HM?$CFd?$HM_cb?$HM?$CFd?$HM?$AA@ 00409828     Set.obj
+ 0003:00000848       ??_C@_02DILL@?$CFs?$AA@    00409848     Set.obj
+ 0003:0000084c       ??_C@_0P@LLNM@?$LC?$LL?$LB?$KD?$LE?f?P?$NO?$LI?D?B?p?$KD?$LP?$AA@ 0040984c     Set.obj
+ 0003:00000860       ___defaultmatherr          00409860     MSVCRT:merr.obj
+ 0003:00000878       ?text@@3PAU__unnamed@@A    00409878     Lrc.obj
+ 0003:00001430       ?size@@3UtagRECT@@A        0040a430     Lrc.obj
+ 0003:00001440       ?orderlytime@@3PAHA        0040a440     Lrc.obj
+ 0003:00001ff8       ?index@@3PAHA              0040aff8     Lrc.obj
+ 0003:00002bb0       ?time@@3PAY04HA            0040bbb0     Lrc.obj
+ 0003:00003768       ?lrcphwnd@@3PAUHWND__@@A   0040c768     Lrc.obj
+ 0003:0000376c       ?shouldHide@@3HA           0040c76c     Lrc.obj
+ 0003:00003770       ?isHide@@3HA               0040c770     Lrc.obj
+ 0003:00003774       ?offset@@3HA               0040c774     Lrc.obj
+ 0003:00003778       ??_C@_00A@?$AA@            0040c778     Lrc.obj
+ 0003:00003780       ?pfo@@3PADA                0040c780     MainDlg.obj
+ 0003:00003788       ?STime@@3U_SYSTEMTIME@@A   0040c788     MainDlg.obj
+ 0003:00003798       ?noti@@3U_NOTIFYICONDATAA@@A 0040c798     MainDlg.obj
+ 0003:000037f0       ?ShortName1@@3PADA         0040c7f0     MainDlg.obj
+ 0003:000038f4       ?Time@@3PADA               0040c8f4     MainDlg.obj
+ 0003:00003904       ?Nmin@@3HA                 0040c904     MainDlg.obj
+ 0003:00003908       ?Nsec@@3HA                 0040c908     MainDlg.obj
+ 0003:0000390c       ?Tmin@@3HA                 0040c90c     MainDlg.obj
+ 0003:00003910       ?Tsec@@3HA                 0040c910     MainDlg.obj
+ 0003:00003914       ?max@@3HA                  0040c914     MainDlg.obj
+ 0003:00003918       ?now@@3HA                  0040c918     MainDlg.obj
+ 0003:0000391c       ?cd@@3HA                   0040c91c     MainDlg.obj
+ 0003:00003920       ?sleep@@3HA                0040c920     MainDlg.obj
+ 0003:00003924       ?sea@@3HA                  0040c924     MainDlg.obj
+ 0003:00003928       ?set@@3HA                  0040c928     MainDlg.obj
+ 0003:0000392c       ?lrc@@3HA                  0040c92c     MainDlg.obj
+ 0003:00003930       ?min@@3HA                  0040c930     MainDlg.obj
+ 0003:00003934       ?mil@@3HA                  0040c934     MainDlg.obj
+ 0003:00003938       ?seahwnd@@3PAUHWND__@@A    0040c938     MainDlg.obj
+ 0003:0000393c       ?sethwnd@@3PAUHWND__@@A    0040c93c     MainDlg.obj
+ 0003:00003940       ?lrchwnd@@3PAUHWND__@@A    0040c940     MainDlg.obj
+ 0003:00003944       ?minhwnd@@3PAUHWND__@@A    0040c944     MainDlg.obj
+ 0003:00003948       ?milhwnd@@3PAUHWND__@@A    0040c948     MainDlg.obj
+ 0003:00003960       ?_size@@3UtagRECT@@A       0040c960     Mini.obj
+ 0003:00003970       ?minphwnd@@3PAUHWND__@@A   0040c970     Mini.obj
+ 0003:00003974       ?_shouldHide@@3HA          0040c974     Mini.obj
+ 0003:00003978       ?_isHide@@3HA              0040c978     Mini.obj
+ 0003:0000397c       ?_isTime@@3HA              0040c97c     Mini.obj
+ 0003:00003980       ?_isOpen@@3HA              0040c980     Mini.obj
+ 0003:00003984       ?_isMusicMove@@3HA         0040c984     Mini.obj
+ 0003:00003988       ?_isSoundMove@@3HA         0040c988     Mini.obj
+ 0003:00003990       ?_entity@@3PAU__unnamed@@A 0040c990     MiniLrc.obj
+ 0003:000123f0       ?_text@@3PAU__unnamed@@A   0041b3f0     MiniLrc.obj
+ 0003:00012fa8       ?_orderlytime@@3PAHA       0041bfa8     MiniLrc.obj
+ 0003:00013b60       ?_index@@3PAHA             0041cb60     MiniLrc.obj
+ 0003:00014718       ?_time@@3PAY04HA           0041d718     MiniLrc.obj
+ 0003:000152d0       ?milphwnd@@3PAUHWND__@@A   0041e2d0     MiniLrc.obj
+ 0003:000152d4       ?name@@3PADA               0041e2d4     MiniLrc.obj
+ 0003:000153d8       ?_offset@@3HA              0041e3d8     MiniLrc.obj
+ 0003:000153dc       ?seaphwnd@@3PAUHWND__@@A   0041e3dc     Search.obj
+ 0003:000153e0       ?startindex@@3HA           0041e3e0     Search.obj
+ 0003:000153e4       ?search@@3PADA             0041e3e4     Search.obj
+ 0003:000154e8       ?NewSet@@3PADA             0041e4e8     Set.obj
+ 0003:000156f0       ?SourceSet@@3PADA          0041e6f0     Set.obj
+ 0003:000158f8       ?setphwnd@@3PAUHWND__@@A   0041e8f8     Set.obj
+ 0003:000158fc       __dowildcard               0041e8fc     MSVCRT:wildcard.obj
+ 0003:00015900       __newmode                  0041e900     MSVCRT:_newmode.obj
+ 0003:00015904       __commode                  0041e904     MSVCRT:xncommod.obj
+ 0003:00015908       __fmode                    0041e908     MSVCRT:xtxtmode.obj
+ 0003:0001590c       ___onexitend               0041e90c     <common>
+ 0003:00015910       ___onexitbegin             0041e910     <common>
+ 0003:00015914       __adjust_fdiv              0041e914     <common>
+ 0004:00000000       __IMPORT_DESCRIPTOR_KERNEL32 0041f000     kernel32:KERNEL32.dll
+ 0004:00000014       __IMPORT_DESCRIPTOR_USER32 0041f014     user32:USER32.dll
+ 0004:00000028       __IMPORT_DESCRIPTOR_GDI32  0041f028     gdi32:GDI32.dll
+ 0004:0000003c       __IMPORT_DESCRIPTOR_comdlg32 0041f03c     comdlg32:comdlg32.dll
+ 0004:00000050       __IMPORT_DESCRIPTOR_SHELL32 0041f050     shell32:SHELL32.dll
+ 0004:00000064       __IMPORT_DESCRIPTOR_COMCTL32 0041f064     comctl32:COMCTL32.dll
+ 0004:00000078       __IMPORT_DESCRIPTOR_SkinH  0041f078     SkinH:SkinH.dll
+ 0004:0000008c       __IMPORT_DESCRIPTOR_MSVCRT 0041f08c     MSVCRT:MSVCRT.dll
+ 0004:000000a0       __IMPORT_DESCRIPTOR_WINMM  0041f0a0     Winmm:WINMM.dll
+ 0004:000000b4       __NULL_IMPORT_DESCRIPTOR   0041f0b4     kernel32:KERNEL32.dll
+ 0004:0000024c       __imp__InitCommonControls@0 0041f24c     comctl32:COMCTL32.dll
+ 0004:00000250       __imp___TrackMouseEvent@4  0041f250     comctl32:COMCTL32.dll
+ 0004:00000254       \177COMCTL32_NULL_THUNK_DATA 0041f254     comctl32:COMCTL32.dll
+ 0004:00000258       __imp__CreateSolidBrush@4  0041f258     gdi32:GDI32.dll
+ 0004:0000025c       __imp__SetTextColor@8      0041f25c     gdi32:GDI32.dll
+ 0004:00000260       __imp__SetBkMode@8         0041f260     gdi32:GDI32.dll
+ 0004:00000264       __imp__SetBkColor@8        0041f264     gdi32:GDI32.dll
+ 0004:00000268       \177GDI32_NULL_THUNK_DATA  0041f268     gdi32:GDI32.dll
+ 0004:0000026c       __imp__GetStdHandle@4      0041f26c     kernel32:KERNEL32.dll
+ 0004:00000270       __imp__SetConsoleTextAttribute@8 0041f270     kernel32:KERNEL32.dll
+ 0004:00000274       __imp__GetStartupInfoA@4   0041f274     kernel32:KERNEL32.dll
+ 0004:00000278       __imp__GetModuleHandleA@4  0041f278     kernel32:KERNEL32.dll
+ 0004:0000027c       __imp__GetLocalTime@4      0041f27c     kernel32:KERNEL32.dll
+ 0004:00000280       __imp__GetShortPathNameA@12 0041f280     kernel32:KERNEL32.dll
+ 0004:00000284       __imp__GetModuleFileNameA@12 0041f284     kernel32:KERNEL32.dll
+ 0004:00000288       __imp__lstrlenA@4          0041f288     kernel32:KERNEL32.dll
+ 0004:0000028c       __imp__LoadLibraryA@4      0041f28c     kernel32:KERNEL32.dll
+ 0004:00000290       __imp__GetProcAddress@8    0041f290     kernel32:KERNEL32.dll
+ 0004:00000294       __imp__FreeLibrary@4       0041f294     kernel32:KERNEL32.dll
+ 0004:00000298       \177KERNEL32_NULL_THUNK_DATA 0041f298     kernel32:KERNEL32.dll
+ 0004:0000029c       __imp___adjust_fdiv        0041f29c     MSVCRT:MSVCRT.dll
+ 0004:000002a0       __imp____setusermatherr    0041f2a0     MSVCRT:MSVCRT.dll
+ 0004:000002a4       __imp___initterm           0041f2a4     MSVCRT:MSVCRT.dll
+ 0004:000002a8       __imp____getmainargs       0041f2a8     MSVCRT:MSVCRT.dll
+ 0004:000002ac       __imp___acmdln             0041f2ac     MSVCRT:MSVCRT.dll
+ 0004:000002b0       __imp__exit                0041f2b0     MSVCRT:MSVCRT.dll
+ 0004:000002b4       __imp____p__commode        0041f2b4     MSVCRT:MSVCRT.dll
+ 0004:000002b8       __imp___exit               0041f2b8     MSVCRT:MSVCRT.dll
+ 0004:000002bc       __imp__system              0041f2bc     MSVCRT:MSVCRT.dll
+ 0004:000002c0       __imp___ftol               0041f2c0     MSVCRT:MSVCRT.dll
+ 0004:000002c4       __imp__time                0041f2c4     MSVCRT:MSVCRT.dll
+ 0004:000002c8       __imp__rand                0041f2c8     MSVCRT:MSVCRT.dll
+ 0004:000002cc       __imp__srand               0041f2cc     MSVCRT:MSVCRT.dll
+ 0004:000002d0       __imp__fread               0041f2d0     MSVCRT:MSVCRT.dll
+ 0004:000002d4       __imp__fgets               0041f2d4     MSVCRT:MSVCRT.dll
+ 0004:000002d8       __imp__fprintf             0041f2d8     MSVCRT:MSVCRT.dll
+ 0004:000002dc       __imp__fopen               0041f2dc     MSVCRT:MSVCRT.dll
+ 0004:000002e0       __imp__fgetc               0041f2e0     MSVCRT:MSVCRT.dll
+ 0004:000002e4       __imp__fseek               0041f2e4     MSVCRT:MSVCRT.dll
+ 0004:000002e8       __imp__malloc              0041f2e8     MSVCRT:MSVCRT.dll
+ 0004:000002ec       __imp__fclose              0041f2ec     MSVCRT:MSVCRT.dll
+ 0004:000002f0       __imp____p__fmode          0041f2f0     MSVCRT:MSVCRT.dll
+ 0004:000002f4       __imp____set_app_type      0041f2f4     MSVCRT:MSVCRT.dll
+ 0004:000002f8       __imp___except_handler3    0041f2f8     MSVCRT:MSVCRT.dll
+ 0004:000002fc       __imp___controlfp          0041f2fc     MSVCRT:MSVCRT.dll
+ 0004:00000300       __imp__free                0041f300     MSVCRT:MSVCRT.dll
+ 0004:00000304       __imp__atoi                0041f304     MSVCRT:MSVCRT.dll
+ 0004:00000308       __imp___itoa               0041f308     MSVCRT:MSVCRT.dll
+ 0004:00000308       __imp__itoa                0041f308     MSVCRT:MSVCRT.dll
+ 0004:0000030c       __imp___XcptFilter         0041f30c     MSVCRT:MSVCRT.dll
+ 0004:00000310       \177MSVCRT_NULL_THUNK_DATA 0041f310     MSVCRT:MSVCRT.dll
+ 0004:00000314       __imp__ShellExecuteA@24    0041f314     shell32:SHELL32.dll
+ 0004:00000318       __imp__DragAcceptFiles@8   0041f318     shell32:SHELL32.dll
+ 0004:0000031c       __imp__Shell_NotifyIconA@8 0041f31c     shell32:SHELL32.dll
+ 0004:00000320       __imp__DragFinish@4        0041f320     shell32:SHELL32.dll
+ 0004:00000324       __imp__DragQueryFileA@16   0041f324     shell32:SHELL32.dll
+ 0004:00000328       \177SHELL32_NULL_THUNK_DATA 0041f328     shell32:SHELL32.dll
+ 0004:0000032c       __imp__SkinH_AdjustAero@36 0041f32c     SkinH:SkinH.dll
+ 0004:00000330       __imp__SkinH_SetAero@4     0041f330     SkinH:SkinH.dll
+ 0004:00000334       __imp__SkinH_Attach@0      0041f334     SkinH:SkinH.dll
+ 0004:00000338       __imp__SkinH_DetachEx@4    0041f338     SkinH:SkinH.dll
+ 0004:0000033c       __imp__SkinH_SetMenuAlpha@4 0041f33c     SkinH:SkinH.dll
+ 0004:00000340       \177SkinH_NULL_THUNK_DATA  0041f340     SkinH:SkinH.dll
+ 0004:00000344       __imp__GetDlgItemTextA@16  0041f344     user32:USER32.dll
+ 0004:00000348       __imp__GetSystemMetrics@4  0041f348     user32:USER32.dll
+ 0004:0000034c       __imp__SetDlgItemTextA@12  0041f34c     user32:USER32.dll
+ 0004:00000350       __imp__GetDlgCtrlID@4      0041f350     user32:USER32.dll
+ 0004:00000354       __imp__RegisterHotKey@16   0041f354     user32:USER32.dll
+ 0004:00000358       __imp__LoadImageA@24       0041f358     user32:USER32.dll
+ 0004:0000035c       __imp__ShowWindow@8        0041f35c     user32:USER32.dll
+ 0004:00000360       __imp__SetForegroundWindow@4 0041f360     user32:USER32.dll
+ 0004:00000364       __imp__LoadMenuA@8         0041f364     user32:USER32.dll
+ 0004:00000368       __imp__GetSubMenu@8        0041f368     user32:USER32.dll
+ 0004:0000036c       __imp__IsDlgButtonChecked@8 0041f36c     user32:USER32.dll
+ 0004:00000370       __imp__DestroyMenu@4       0041f370     user32:USER32.dll
+ 0004:00000374       __imp__DialogBoxParamA@20  0041f374     user32:USER32.dll
+ 0004:00000378       __imp__CheckDlgButton@12   0041f378     user32:USER32.dll
+ 0004:0000037c       __imp__MessageBoxA@16      0041f37c     user32:USER32.dll
+ 0004:00000380       __imp__KillTimer@8         0041f380     user32:USER32.dll
+ 0004:00000384       __imp__SetWindowTextA@8    0041f384     user32:USER32.dll
+ 0004:00000388       __imp__GetWindowLongA@8    0041f388     user32:USER32.dll
+ 0004:0000038c       __imp__SetWindowLongA@12   0041f38c     user32:USER32.dll
+ 0004:00000390       __imp__PostMessageA@16     0041f390     user32:USER32.dll
+ 0004:00000394       __imp__SetTimer@16         0041f394     user32:USER32.dll
+ 0004:00000398       __imp__EndDialog@8         0041f398     user32:USER32.dll
+ 0004:0000039c       __imp__GetCursorPos@4      0041f39c     user32:USER32.dll
+ 0004:000003a0       __imp__GetWindowRect@8     0041f3a0     user32:USER32.dll
+ 0004:000003a4       __imp__SetWindowPos@28     0041f3a4     user32:USER32.dll
+ 0004:000003a8       __imp__wsprintfA           0041f3a8     user32:USER32.dll
+ 0004:000003ac       __imp__GetDlgItem@8        0041f3ac     user32:USER32.dll
+ 0004:000003b0       __imp__SendMessageA@16     0041f3b0     user32:USER32.dll
+ 0004:000003b4       __imp__SendDlgItemMessageA@20 0041f3b4     user32:USER32.dll
+ 0004:000003b8       __imp__TrackPopupMenu@28   0041f3b8     user32:USER32.dll
+ 0004:000003bc       \177USER32_NULL_THUNK_DATA 0041f3bc     user32:USER32.dll
+ 0004:000003c0       __imp__mciSendStringA@16   0041f3c0     Winmm:WINMM.dll
+ 0004:000003c4       \177WINMM_NULL_THUNK_DATA  0041f3c4     Winmm:WINMM.dll
+ 0004:000003c8       __imp__GetOpenFileNameA@4  0041f3c8     comdlg32:comdlg32.dll
+ 0004:000003cc       \177comdlg32_NULL_THUNK_DATA 0041f3cc     comdlg32:comdlg32.dll
+
+ entry point at        0001:00006686
+
+ Static symbols
+
+
+FIXUPS: 54fd 3e 210 13 7d ffffbb5e 31 31b c 2f8 55 91 65 115 1f3 5a1f fffffef6
+FIXUPS: 770a f 33 6a 1b ffffd067 46 43 653 6 9b 6 111 14 64 111 6 6 81
+FIXUPS: 52e8 6 14 6 6 14 14 14 14 6 6 28 19 99 1e 6 43 14 ffffe907 51 6
+FIXUPS: 3e24 112 1d 3a 48 127 6 11b 6 6 26 6 6 26 c0 21 34 17 6 a7 54 26
+FIXUPS: 44fa 3a 9c 2a ec 100 1f ffffe68c 6 c9 d 2d4 51 6 11c 8a 9 16 6
+FIXUPS: 3479 1b 98 17e 42 2f 6 b 6 6 ca 55 38 6 2d ce 1a3 21 4c e8 2e1a
+FIXUPS: 6ac1 13 3f 71 12d 70 ffffeb7d 91 65 7f ffffc453 7d 2e8 105 ea 27
+FIXUPS: 2421 93 92 6e 160 6 b1 bf bf 1e5 200 dd 46 33 6 4252 40 3c ba 130
+FIXUPS: 7399 10 27 40 28 f f f e1 f 8 3c fffff804 10 27 fffff765 31 17c
+FIXUPS: 674c 90 8 ad 9b 7c 6f d d
+
+ 224 bytes saved through ICF
+

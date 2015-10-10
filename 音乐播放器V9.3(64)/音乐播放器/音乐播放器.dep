@@ -1,0 +1,15 @@
+# Microsoft Developer Studio Generated Dependency File, included by “Ù¿÷≤•∑≈∆˜.mak
+
+.\Main.cpp : \
+	".\MainDlg.h"\
+	".\StdAfx.h"\
+	
+
+.\MainDlg.cpp : \
+	".\MainDlg.h"\
+	".\StdAfx.h"\
+	
+
+.\StdAfx.cpp : \
+	".\StdAfx.h"\
+	

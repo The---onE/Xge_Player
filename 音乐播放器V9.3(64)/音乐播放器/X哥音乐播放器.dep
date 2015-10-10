@@ -1,0 +1,20 @@
+# Microsoft Developer Studio Generated Dependency File, included by X哥音乐播放器.mak
+
+.\Main.cpp : \
+	".\MainDlg.h"\
+	".\SkinH.h"\
+	
+
+.\MainDlg.cpp : \
+	".\MainDlg.h"\
+	".\SkinH.h"\
+	
+
+.\resource.rc : \
+	".\chinaz63.ico"\
+	
+
+.\StdAfx.cpp : \
+	".\StdAfx.h"\
+	"d:\技术\编程\vc98\include\basetsd.h"\
+	
